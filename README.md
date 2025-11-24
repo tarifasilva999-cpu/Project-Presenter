@@ -38,7 +38,7 @@ Presenter 4.0 is free to download and use. If you like what you see and want to 
 
 ## Feedback & Community
 
-We’re building Presenter 4.0 **together**. If you find bugs, want new features, or just want to say hi, open an issue or reach out in the Discussions tab.  
+We’re building Presenter 4.0 **together**. If you find bugs, want new features, or just want to say hi, open an issue or reach out by emailing fyber2025@gmail.com  
 
 ---
 
